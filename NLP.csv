@@ -1,0 +1,7 @@
+Intent,Example Sentence,Entities names
+Intro,My name is Jeff and I am calling from Amazon.,caller_name: Jeff company: Amazon
+Intro,I am calling from Microsoft and my name is Satya.,caller_name: Satya company: Microsoft
+Intro,I am Sundar and I am calling from Google,caller_name: Sundar company: Google
+Purpose,I am calling about your Microsoft Azure subscription,product: Microsoft Azure
+Purpose,This is call regarding your google cloud platform account,product: google cloud platform
+Purpose,I would like to talk about your amazon web services account,product: amazon web services
